@@ -1,0 +1,6 @@
+C:\Users\johannes\Desktop\C\ConsoleAppisolution\ConsoleAppi\bin\Debug\ConsoleAppi.exe.config
+C:\Users\johannes\Desktop\C\ConsoleAppisolution\ConsoleAppi\bin\Debug\ConsoleAppi.exe
+C:\Users\johannes\Desktop\C\ConsoleAppisolution\ConsoleAppi\bin\Debug\ConsoleAppi.pdb
+C:\Users\johannes\Desktop\C\ConsoleAppisolution\ConsoleAppi\obj\Debug\ConsoleAppi.csproj.CoreCompileInputs.cache
+C:\Users\johannes\Desktop\C\ConsoleAppisolution\ConsoleAppi\obj\Debug\ConsoleAppi.exe
+C:\Users\johannes\Desktop\C\ConsoleAppisolution\ConsoleAppi\obj\Debug\ConsoleAppi.pdb

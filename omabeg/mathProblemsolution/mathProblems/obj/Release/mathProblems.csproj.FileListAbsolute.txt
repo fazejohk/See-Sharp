@@ -1,6 +1,7 @@
 C:\Users\johannes\Desktop\C\omabeg\mathProblemsolution\mathProblems\bin\Release\mathProblems.exe.config
 C:\Users\johannes\Desktop\C\omabeg\mathProblemsolution\mathProblems\bin\Release\mathProblems.exe
 C:\Users\johannes\Desktop\C\omabeg\mathProblemsolution\mathProblems\bin\Release\mathProblems.pdb
+C:\Users\johannes\Desktop\C\omabeg\mathProblemsolution\mathProblems\obj\Release\mathProblems.csprojResolveAssemblyReference.cache
 C:\Users\johannes\Desktop\C\omabeg\mathProblemsolution\mathProblems\obj\Release\mathProblems.csproj.CoreCompileInputs.cache
 C:\Users\johannes\Desktop\C\omabeg\mathProblemsolution\mathProblems\obj\Release\mathProblems.exe
 C:\Users\johannes\Desktop\C\omabeg\mathProblemsolution\mathProblems\obj\Release\mathProblems.pdb

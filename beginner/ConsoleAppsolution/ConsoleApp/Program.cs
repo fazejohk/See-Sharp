@@ -5,21 +5,52 @@ namespace ConsoleApp
 
     class MainClass
     {
-        public static void Main (string[] args) // this is a method called main. it is called when the program starts
+        public static void Main(string[] args) // this is a method called main. it is called when the program starts
         {
-            Start:
-            double num01;
-            double num02;
+            while (true)
+            {
 
-            Console.Write("INSERT NUMBER --> "); // writella voi kirjottaa samalle linelle
-            num01 = Convert.ToDouble (Console.ReadLine()); // converttaa readlinen numeroksi
-            Console.Write("Another one -->");
-            num02 = Convert.ToDouble (Console.ReadLine());
-            Console.Write("Result is " + num01+num02);
-            Console.ReadLine();
-            Console.WriteLine();
-            Console.Clear();
-            goto Start;
+
+                double num01;
+                double num02;
+                double answer;
+                string operation;
+
+                Console.WriteLine("First number");
+                num01 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Second number");
+                num02 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Operations = X,/,+,-");
+                operation = Console.ReadLine();
+
+                if (operation == "X" || operation == "x")
+                {
+                    answer = num01 * num02;
+                    Console.WriteLine(num01 + " X " + num02 + " = " + answer);
+
+                }
+                else if (operation == "/")
+                {
+                    answer = num01 / num02;
+                    Console.WriteLine(num01 + " / " + num02 + " = " + answer);
+                }
+                else if (operation == "+")
+                {
+                    answer = num01 + num02;
+                    Console.WriteLine(num01 + " + " + num02 + " = " + answer);
+                }
+                else if (operation == "-")
+                {
+                    answer = num01 - num02;
+                    Console.WriteLine(num01 + " - " + num02 + " = " + answer);
+                }
+                else
+                {
+                    Console.WriteLine("CUh what chu doin");
+                }
+                Console.ReadLine();
+                Console.Clear();
+            }
         }
     }
 
